@@ -17,4 +17,5 @@ Diabetes : True or False
 Alcoholism : True or False
 Handcap : True or False
 SMS_received : 1 or more messages sent to the patient.
-No-show : True or False
+No-show : True or False 
+ 
